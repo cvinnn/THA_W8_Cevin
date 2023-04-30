@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THA_W8_Cevin", "THA_W8_Cevin\THA_W8_Cevin.csproj", "{10717A6F-3473-4BA0-9C0C-E8C353212244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10717A6F-3473-4BA0-9C0C-E8C353212244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10717A6F-3473-4BA0-9C0C-E8C353212244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10717A6F-3473-4BA0-9C0C-E8C353212244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10717A6F-3473-4BA0-9C0C-E8C353212244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC031E3-05ED-4520-9FB3-61C9295E7C3C}
+	EndGlobalSection
+EndGlobal
